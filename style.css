@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  border: dashed red;
+}
+h3 {
+  text-align: center;
+}
+hr {
+  color: red;
+}
+h4 {
+  color: rgb(255, 0, 0);
+  text-align: center;
+}
+p {
+  text-align: left;
+}
+#invio {
+  display: inline;
+}
